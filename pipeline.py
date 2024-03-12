@@ -4,8 +4,6 @@ import time
 import requests
 from Bio.Seq import Seq
 from Bio import SeqIO
-from Bio.Blast import NCBIWWW
-from Bio.Blast import NCBIXML
 
 
 def getEnsemblId(gene: str ="MC1R") -> str:

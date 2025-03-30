@@ -61,7 +61,3 @@ The main function orchestrates the entire process, including parsing command-lin
 
 
 This command retrieves information about the MC1R gene, including Ensembl ID, protein sequence, and homologous species.
-
-
-Steve Cheney
-RBIF100 A4
